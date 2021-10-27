@@ -104,3 +104,15 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.lsp4e 1 0 2021-10-27 14:16:18.582
 !MESSAGE [Log]	Scanner.scan has not advanced at offset 296, state before: 10 after: 4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-27 15:18:08.945
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.REafJUXS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-27 15:18:08.946
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.REafJUXS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-27 15:18:08.947
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-27 15:18:08.948
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.REafJUXS => OK
