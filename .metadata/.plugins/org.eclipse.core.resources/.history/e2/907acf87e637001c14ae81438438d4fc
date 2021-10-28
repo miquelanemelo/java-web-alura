@@ -1,0 +1,15 @@
+<!-- Scriptlet -->
+<%   
+String nomeEmpresa= "Alura";
+System.out.println(nomeEmpresa);
+
+%>
+
+
+
+<html>
+<body>
+	<h1>Empresa Cadastrada com sucesso!!!!</h1>
+</body>
+</html>
+
